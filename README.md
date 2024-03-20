@@ -1,4 +1,5 @@
-#Vinzari masini
+# Vinzari masini
+
 **Interfață intuitivă și design responsive**: Asigurați-vă că site-ul este ușor de navigat pe orice dispozitiv, inclusiv pe telefoane mobile și tablete.
 **Filtre detaliate de căutare**: Oferiți opțiuni multiple de filtrare pentru a ajuta utilizatorii să găsească exact mașina pe care o caută, cum ar fi marca, modelul, anul, kilometrajul și gama de prețuri.
 **Descrieri detaliate și fotografii de calitate**: Includeți descrieri amănunțite și imagini de înaltă rezoluție pentru fiecare vehicul, permițând cumpărătorilor să obțină o imagine clară a stării mașinii.
